@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/sivananda-reddy-resume.pdf",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    }
+  ]
+}
